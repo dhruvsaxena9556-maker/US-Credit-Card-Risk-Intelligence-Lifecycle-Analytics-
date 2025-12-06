@@ -69,6 +69,14 @@ BRD • FRD • SRS • UAT • Stakeholder Management • Risk Analytics • Da
 
 ---
 
+
+Dashboard 1 Comprehensive Lifecycle & Market Intelligence Dashboa
+https://www.perplexity.ai/apps/b6b36045-f153-4e3b-8cdc-f0475a01286a
+
+Dashboard 2 US Credit Card Analysis Dashboard
+https://usccdashboard-buqsd89z.manus.space/
+
+
 ## 👤 About the Author
 **<Your Dhruv Saxena>**  
 Dhruv Saxena · 
