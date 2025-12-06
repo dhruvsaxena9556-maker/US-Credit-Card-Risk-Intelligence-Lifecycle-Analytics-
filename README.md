@@ -71,5 +71,6 @@ BRD • FRD • SRS • UAT • Stakeholder Management • Risk Analytics • Da
 
 ## 👤 About the Author
 **<Your Dhruv Saxena>**  
+Dhruv Saxena
 Business Analyst · BI Analyst · Data Analytics  
   🔗 LinkedIn: <https://www.linkedin.com/in/dhruvsaxena99>
