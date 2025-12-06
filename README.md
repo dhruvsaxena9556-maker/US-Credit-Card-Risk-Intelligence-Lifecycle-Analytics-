@@ -69,12 +69,10 @@ BRD • FRD • SRS • UAT • Stakeholder Management • Risk Analytics • Da
 
 ---
 
-#### 🔹 Comprehensive Lifecycle & Market Intelligence Dashboard
-![Lifecycle Dashboard](assets/lifecycle_dashboard.png)
-
-#### 🔹 US Credit Card Analysis Dashboard
-![Market Dashboard](assets/market_dashboard.png)
-
+| Dashboard Name                                              | Live Link                                                                                                                                     | Description                                                                                                                                             |
+| ----------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Comprehensive Lifecycle & Market Intelligence Dashboard** | 🔗 [https://www.perplexity.ai/apps/b6b36045-f153-4e3b-8cdc-f0475a01286a](https://www.perplexity.ai/apps/b6b36045-f153-4e3b-8cdc-f0475a01286a) | Simulates end-to-end credit card lifecycle behavior — spending → delinquency → default → bankruptcy → recovery, using synthetic data modelling.         |
+| **US Credit Card Analysis Dashboard**                       | 🔗 [https://usccdashboard-buqsd89z.manus.space/](https://usccdashboard-buqsd89z.manus.space/)                                                 | Shows real-world credit card trends: household debt levels, delinquency patterns, APR metrics, demographic segmentation & state-wise risk distribution. |
 
 
 ## 👤 About the Author
