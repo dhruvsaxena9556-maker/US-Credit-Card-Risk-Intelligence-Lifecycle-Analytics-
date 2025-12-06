@@ -69,12 +69,12 @@ BRD • FRD • SRS • UAT • Stakeholder Management • Risk Analytics • Da
 
 ---
 
+#### 🔹 Comprehensive Lifecycle & Market Intelligence Dashboard
+![Lifecycle Dashboard](assets/lifecycle_dashboard.png)
 
-Dashboard 1 Comprehensive Lifecycle & Market Intelligence Dashboa
-https://www.perplexity.ai/apps/b6b36045-f153-4e3b-8cdc-f0475a01286a
+#### 🔹 US Credit Card Analysis Dashboard
+![Market Dashboard](assets/market_dashboard.png)
 
-Dashboard 2 US Credit Card Analysis Dashboard
-https://usccdashboard-buqsd89z.manus.space/
 
 
 ## 👤 About the Author
