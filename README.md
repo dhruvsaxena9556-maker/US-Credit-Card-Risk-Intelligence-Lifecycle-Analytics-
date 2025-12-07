@@ -32,8 +32,10 @@ Financial institutions lack a unified analytics view of:
 ## 📊 Dashboards
 | Dashboard | Link |
 |----------|------|
-| US Market Dashboard | 🔗 <ADD LINK> |
-| Lifecycle Simulation Dashboard | 🔗 <ADD LINK> |
+| US Market Dashboard | 🔗 https://www.perplexity.ai/apps/b6b36045-f153-4e3b-8cdc-f0475a01286a |
+| Lifecycle Simulation Dashboard | 🔗 https://usccdashboard-buqsd89z.manus.space/ |
+
+<img width="2400" height="2068" alt="7_Comprehensive-BI-Dashboard-Suite" src="https://github.com/user-attachments/assets/aa29c3be-d7e5-4dd8-9007-c3597b3a5956" />
 
 ---
 
@@ -57,8 +59,11 @@ Synthetic consumer and credit lifecycle behavioral datasets generated using:
 • Income-score regression  
 • Markov state progression (delinquency simulation)  
 • Survival modelling for default / bankruptcy  
+<img width="2400" height="2106" alt="6_Advanced-Synthetic-Data-Modelling" src="https://github.com/user-attachments/assets/485010d8-c6b8-4f2a-b2cb-11ef57b4ab30" />
 
 No PII used. Fully GLBA/FCRA safe.
+
+<img width="2400" height="1350" alt="8_Key-Insights-Delivered" src="https://github.com/user-attachments/assets/cfd2c315-cd84-4da8-a17d-2fa5eabdbc03" />
 
 ---
 
