@@ -1,3 +1,6 @@
+<img width="2400" height="1350" alt="1_US-Credit-Card-Market-and-Lifecycle-Analytics" src="https://github.com/user-attachments/assets/fa02bd0b-a2d6-45e3-aba8-d04d0f98a5e5" />
+
+
 # US Credit Card Market & Lifecycle Analytics — Full Business Analysis + BI Project
 
 ## 📌 Overview
